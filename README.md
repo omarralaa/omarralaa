@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/omaritocen">Omar</a> - aka omaritocen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/omaritocen">Omar</a> - aka omarralaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
       <a  href="https://www.linkedin.com/in/omar-alaa-2019637a/" target="_blank">
@@ -14,7 +14,7 @@
 ## 📖 About me
 * :raising_hand_man: Hello I'm Omar, I am 22 years old
 * 💻 I'm a Software Development Engineer I (L4)
-* 🌐 I create backend services like RESFful APIs, and Websocket servers
+* 🌐 I create backend services like RESFful APIs, and WebSocket servers
 * 📱 I also sometimes make apps for Android and iOS
 * 🎓 I have a Bachelor's degree in Computer Engineering
 *  :technologist: I have 2+ years of professional experience
