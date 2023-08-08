@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/omaritocen">Omar</a> - aka omarralaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/omarralaa">Omar</a> - aka omarralaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
       <a  href="https://www.linkedin.com/in/omar-alaa-2019637a/" target="_blank">
@@ -22,10 +22,10 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omaritocen&theme=dark"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omarralaa&theme=dark"/></a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/omaritocen?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/omarralaa?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 👨‍💻 Tech Stack:
 
@@ -66,23 +66,23 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/omaritocen/SSPian"><b>SSPian</b></a></td>
+      <td><a href="https://github.com/omarralaa/SSPian"><b>SSPian</b></a></td>
       <td>A mobile app that helps college students keep up with their latest updates, and assignments.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/omaritocen/sspian-api"><b>SSPian API</b></a></td>
+      <td><a href="https://github.com/omarralaa/sspian-api"><b>SSPian API</b></a></td>
       <td>A RESTful API that provides the needed functionalities and services for SSPian app.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/omaritocen/Watcheroo"><b>Watcheroo</b></a></td>
+      <td><a href="https://github.com/omarralaa/Watcheroo"><b>Watcheroo</b></a></td>
       <td>A Cross-Platform mobile application for friends to watch movies and videos together.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/omaritocen/Watcheroo-API"><b>Watcheroo API</b></a></td>
+      <td><a href="https://github.com/omarralaa/Watcheroo-API"><b>Watcheroo API</b></a></td>
       <td>A backend service that provides websocket connection, and endpoints for watcheroo app.</td>
     </tr>
         <tr>
-      <td><a href="https://github.com/omaritocen/Fruit-Ninja"><b>Fruit Ninja</b></a></td>
+      <td><a href="https://github.com/omarralaa/Fruit-Ninja"><b>Fruit Ninja</b></a></td>
       <td>A  clone of the famous "Fruit Ninja" game that you can play on your computer.</td>
     </tr>
   </tbody>
@@ -90,7 +90,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/omaritocen?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://github.com/omarralaa?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 
