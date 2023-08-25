@@ -67,6 +67,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Epilepsy-Detection"><b>EpiCare</b></a></td>
+      <td>A system of micro-services to evaluate EEG Signals using ML models and provide dashboards to users.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/omarralaa/SSPian"><b>SSPian</b></a></td>
       <td>A mobile app that helps college students keep up with their latest updates, and assignments.</td>
     </tr>
