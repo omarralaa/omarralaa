@@ -12,9 +12,9 @@
   <a href="mailto:omaralaaabdelkader@gmail.com?subject=Hi%20Omar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ## 📖 About me
-* :raising_hand_man: Hello I'm Omar, I am 22 years old
-* 💻 I'm a Software Development Engineer I (L4)
-* 🌐 I create backend services like RESFful APIs, and WebSocket servers
+* :raising_hand_man: Hello I'm Omar, I am 26 years old
+* 💻 I'm a Software Development Engineer II at Amazon
+* 🌐 I create backend services RESFful APIs, and WebSocket servers
 * 📱 I also sometimes make apps for Android and iOS
 * 🎓 I have a Bachelor's degree in Computer Engineering
 *  :technologist: I have 2+ years of professional experience
